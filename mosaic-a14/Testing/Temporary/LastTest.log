@@ -1,0 +1,371 @@
+Start testing: Nov 09 18:45 CET
+----------------------------------------------------------
+1/20 Testing: test_werobert_dummy
+1/20 Test: test_werobert_dummy
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_werobert" "dummy"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_werobert_dummy" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "dummy"
+Test "dummy" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_werobert_dummy" end time: Nov 09 18:45 CET
+"test_werobert_dummy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/20 Testing: test_lindrano_dummy
+2/20 Test: test_lindrano_dummy
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_lindrano" "dummy"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_lindrano_dummy" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "dummy"
+Test "dummy" finished: SUCCESS
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_lindrano_dummy" end time: Nov 09 18:45 CET
+"test_lindrano_dummy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/20 Testing: test_werobert_game_default
+3/20 Test: test_werobert_game_default
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_werobert" "game_default"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_werobert_game_default" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_default"
+Test "game_default" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_werobert_game_default" end time: Nov 09 18:45 CET
+"test_werobert_game_default" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/20 Testing: test_werobert_game_new_empty
+4/20 Test: test_werobert_game_new_empty
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_werobert" "game_new_empty"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_werobert_game_new_empty" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_new_empty"
+Test "game_new_empty" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_werobert_game_new_empty" end time: Nov 09 18:45 CET
+"test_werobert_game_new_empty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/20 Testing: test_werobert_game_delete
+5/20 Test: test_werobert_game_delete
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_werobert" "game_delete"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_werobert_game_delete" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_delete"
+Test "game_delete" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_werobert_game_delete" end time: Nov 09 18:45 CET
+"test_werobert_game_delete" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/20 Testing: test_werobert_game_get_constraint
+6/20 Test: test_werobert_game_get_constraint
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_werobert" "game_get_constraint"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_werobert_game_get_constraint" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_get_constraint"
+Test "game_get_constraint" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_werobert_game_get_constraint" end time: Nov 09 18:45 CET
+"test_werobert_game_get_constraint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/20 Testing: test_werobert_game_won
+7/20 Test: test_werobert_game_won
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_werobert" "game_won"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_werobert_game_won" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_won"
+Test "game_won" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_werobert_game_won" end time: Nov 09 18:45 CET
+"test_werobert_game_won" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/20 Testing: test_werobert_game_get_status
+8/20 Test: test_werobert_game_get_status
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_werobert" "game_get_status"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_werobert_game_get_status" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_get_status"
+Test "game_get_status" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_werobert_game_get_status" end time: Nov 09 18:45 CET
+"test_werobert_game_get_status" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/20 Testing: test_werobert_game_default_solution
+9/20 Test: test_werobert_game_default_solution
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_werobert" "game_default_solution"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_werobert_game_default_solution" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_default_solution"
+Test "game_default_solution" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_werobert_game_default_solution" end time: Nov 09 18:45 CET
+"test_werobert_game_default_solution" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/20 Testing: test_werobert_game_copy
+10/20 Test: test_werobert_game_copy
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_werobert" "game_copy"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_werobert_game_copy" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_copy"
+Test "game_copy" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_werobert_game_copy" end time: Nov 09 18:45 CET
+"test_werobert_game_copy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/20 Testing: test_werobert_game_set_constraint
+11/20 Test: test_werobert_game_set_constraint
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_werobert" "game_set_constraint"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_werobert_game_set_constraint" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_set_constraint"
+Test "game_set_constraint" finished: SUCCESS
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_werobert_game_set_constraint" end time: Nov 09 18:45 CET
+"test_werobert_game_set_constraint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/20 Testing: test_werobert_game_get_color
+12/20 Test: test_werobert_game_get_color
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_werobert" "game_get_color"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_werobert_game_get_color" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_get_color"
+Test "game_get_color" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_werobert_game_get_color" end time: Nov 09 18:45 CET
+"test_werobert_game_get_color" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/20 Testing: test_werobert_game_nb_neighbors
+13/20 Test: test_werobert_game_nb_neighbors
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_werobert" "game_nb_neighbors"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_werobert_game_nb_neighbors" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_nb_neighbors"
+Test "game_nb_neighbors" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_werobert_game_nb_neighbors" end time: Nov 09 18:45 CET
+"test_werobert_game_nb_neighbors" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/20 Testing: test_werobert_game_restart
+14/20 Test: test_werobert_game_restart
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_werobert" "game_restart"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_werobert_game_restart" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_restart"
+Test "game_restart" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_werobert_game_restart" end time: Nov 09 18:45 CET
+"test_werobert_game_restart" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/20 Testing: test_lindrano_game_set_color
+15/20 Test: test_lindrano_game_set_color
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_lindrano" "game_set_color"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_lindrano_game_set_color" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_set_color"
+Test "game_set_color" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_lindrano_game_set_color" end time: Nov 09 18:45 CET
+"test_lindrano_game_set_color" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/20 Testing: test_lindrano_game_print
+16/20 Test: test_lindrano_game_print
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_lindrano" "game_print"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_lindrano_game_print" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_print"
+Test "game_print" finished: SUCCESS
+     0 1 2 3 4 
+     ----------
+  0 |0     3   |
+  1 |  5       |
+  2 |    4   1 |
+  3 |6   6 3   |
+  4 |          |
+     ----------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_lindrano_game_print" end time: Nov 09 18:45 CET
+"test_lindrano_game_print" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/20 Testing: test_lindrano_game_equal
+17/20 Test: test_lindrano_game_equal
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_lindrano" "game_equal"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_lindrano_game_equal" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_equal"
+Test "game_equal" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_lindrano_game_equal" end time: Nov 09 18:45 CET
+"test_lindrano_game_equal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/20 Testing: test_lindrano_game_play_move
+18/20 Test: test_lindrano_game_play_move
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_lindrano" "game_play_move"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_lindrano_game_play_move" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_play_move"
+Test "game_play_move" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_lindrano_game_play_move" end time: Nov 09 18:45 CET
+"test_lindrano_game_play_move" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/20 Testing: test_lindrano_game_get_next_square
+19/20 Test: test_lindrano_game_get_next_square
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_lindrano" "game_get_next_square"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_lindrano_game_get_next_square" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_get_next_square"
+Test "game_get_next_square" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_lindrano_game_get_next_square" end time: Nov 09 18:45 CET
+"test_lindrano_game_get_next_square" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/20 Testing: test_lindrano_game_new
+20/20 Test: test_lindrano_game_new
+Command: "/autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14/game_test_lindrano" "game_new"
+Directory: /autofs/unityaccount/cremi/werobert/Bureau/mosaic-a14
+"test_lindrano_game_new" start time: Nov 09 18:45 CET
+Output:
+----------------------------------------------------------
+Copyright: Mosaic Game by University of Bordeaux, 2023.
+=> Start test "game_new"
+Test "game_new" finished: SUCCESS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_lindrano_game_new" end time: Nov 09 18:45 CET
+"test_lindrano_game_new" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 09 18:45 CET

@@ -1,0 +1,21 @@
+test_werobert_dummy 35 0.000438159
+test_lindrano_dummy 35 0.000596645
+test_werobert_game_default 16 0.000791851
+test_werobert_game_new_empty 25 0.000315132
+test_werobert_game_delete 34 0.000197187
+test_werobert_game_get_constraint 35 0.000154819
+test_werobert_game_won 35 0.000166528
+test_werobert_game_get_status 35 0.000152893
+test_werobert_game_default_solution 35 0.000142927
+test_werobert_game_copy 35 0.0001603
+test_werobert_game_set_constraint 35 0.000128831
+test_werobert_game_get_color 35 0.000158158
+test_werobert_game_nb_neighbors 35 0.00014631
+test_werobert_game_restart 35 0.00014398
+test_lindrano_game_set_color 35 0.000259305
+test_lindrano_game_print 35 0.000133267
+test_lindrano_game_equal 35 0.000156902
+test_lindrano_game_play_move 35 0.000153184
+test_lindrano_game_get_next_square 35 0.000145863
+test_lindrano_game_new 30 0.000172596
+---
